@@ -123,4 +123,4 @@ A partir disso, o HTML é impactado visualmente.
 # Engenharia de prompt
 - One shot: uma única pergunta sem muito contexto
 - Few shot: é apresentado exemplos do que se espera
-- Chain of Thought: Cadeia de pensamento para a IA responder gradativamente conforme a instrução.
+- Chain of Thought: Cadeia de pensamento para a IA responder gradativamente conforme a instrução.# nlw-agents
